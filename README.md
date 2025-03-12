@@ -1,7 +1,7 @@
 <!-- GitHub Profile README.md -->
 
 <h1 align="center">Hi, I'm Manzoor 👋</h1>
-<h3 align="center">Aspiring Web3 Developer | JavaScript Enthusiast</h3>
+<h3 align="center">Web3 Developer | JavaScript Enthusiast</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 **Languages:** JavaScript | Solidity (Beginner)
+- 💻 **Languages:** JavaScript | Solidity
 - 🔗 **Blockchain:** Ethereum | MetaMask | Remix
 - ⚡ **Tools:** VS Code | Git | Hardhat | Web3.js
 
