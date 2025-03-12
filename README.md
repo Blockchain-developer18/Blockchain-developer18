@@ -1,7 +1,7 @@
 <!-- GitHub Profile README.md -->
 
 <h1 align="center">Hi 👋, I'm Manzoor</h1>
-<h3 align="center">Aspiring Web3 Developer | JavaScript Enthusiast</h3>
+<h3 align="center">Web3 Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
