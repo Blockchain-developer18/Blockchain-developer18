@@ -1,7 +1,7 @@
 <!-- GitHub Profile README.md -->
 
 <h1 align="center">Hi 👋, I'm Manzoor</h1>
-<h3 align="center">Web3 Developer | JavaScript Enthusiast</h3>
+<h3 align="center">Aspiring Web3 Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Learning **Solidity, and Smart Contracts**
+- 🌱 Learning **Solidity and Smart Contracts**
 - 💻 Practicing **JavaScript, Next.js, and Blockchain Development**
 - ⚡ Experimenting with **Remix IDE and MetaMask**
 - 🎯 Goal: **Become a skilled Web3 Developer**
@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -49,3 +49,4 @@
 ---
 
 ✨ **Keep Building & Keep Learning! 🚀**
+
